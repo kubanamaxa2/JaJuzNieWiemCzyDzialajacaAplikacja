@@ -67,7 +67,7 @@ class MainActivity : AppCompatActivity() {
                 obraz1.scaleX = pomocnicza.toFloat()
 
 
-
+                ////
                 ProgressFun()
             }
             override fun onStartTrackingTouch(seekBar: SeekBar) {
